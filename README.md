@@ -3,7 +3,7 @@
 
 ## What is Next.js?
 
-Next.js is a web application framework built with the React library. It's used to create front end UI's, and its approach is designed to enhance the developer and end user experience. To break it down a bit further...
+Next.js is a single page web application framework built with the React library. It's used to create front end UIs, and its approach is designed to enhance the developer and end user experience. To break it down a bit further...
 
 ### *What is a framework?*
 
@@ -13,5 +13,9 @@ A framework is a pre-built set of tools and functions used to build or achieve s
 
 A library is a bundle of helpful tools and functions available for developers to use. Unlike frameworks, there are no overlying rules and architectures to follow in order to use the tools and functions provided by a library. Developers are free to pick and choose what they would like to use from a library in order to implement whatever functionality is needed.
 
+
+By understanding the meanings of libraries and frameworks, we have a clearer idea of the role that Next.js plays in development. Using helpful tools and functions provided by the React library, Next.js provides its own architecture and patterns in order to speed up and simplify development for single page applications.
+
 ## Why use Next.js?
 
+## How to use Next.js
